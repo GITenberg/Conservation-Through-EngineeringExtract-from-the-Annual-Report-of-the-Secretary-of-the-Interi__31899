@@ -1,0 +1,30 @@
+_repo: Conservation-Through-EngineeringExtract-from-the-Annual-Report-of-the-Secretary-of-the-Interi__31899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lane, Franklin K.
+    alias: Lane, Franklin Knight
+    birthdate: 1864
+    deathdate: 1921
+    gutenberg_agent_id: '1396'
+    url: http://www.gutenberg.org/2009/agents/1396
+    wikipedia: http://en.wikipedia.org/wiki/Franklin_Knight_Lane
+description: ''
+gutenberg_issued: '2010-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural resources -- United States'
+- !lcc 'QE'
+title: 'Conservation Through Engineering
+
+  Extract from the Annual Report of the Secretary of the Interior'
+url: http://www.gutenberg.org/ebooks/31899
